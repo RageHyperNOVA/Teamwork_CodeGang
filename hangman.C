@@ -21,8 +21,7 @@ for(j=0;j<c;j++)
 	  //printf("\n\n\t\t*****************");
 	  printf("\n\n\t\t\t..............\t\t\t");
 		printf("\n\n\t\t\t**************");
-// for(j=0;j<c;j++) printf("\n %c",b[j]); //{	   ptr=&b[j];
-	 //  printf("\n %c",*ptr); }
+
 
 while (count<6)//||(ans<c))
  {
