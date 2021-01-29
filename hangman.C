@@ -35,13 +35,7 @@ while (count<6)//||(ans<c))
 		   {	b[i]=a[0][i];
 		   flag=1;
 			ans++; }
-			//else if(b[i]!=d) b[i]=a[0][i];
-			//else b[i]=d;
-		   //	printf("\n u r correct");  }
-		   //	if(ans==c) goto man; }
-			//printf("\n ans=%d",ans);}
 
-			//printf("\n count=%d",count);
 
 		}
 
